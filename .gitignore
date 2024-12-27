@@ -1,0 +1,6 @@
+# Ignore everything in the repository
+*
+
+!.gitignore
+!index.html
+!Ishaan_Chamoli_Resume.pdf
